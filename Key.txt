@@ -1,0 +1,20 @@
+Public Key: 8a8a77b952fcc7033b7c46e331c9b93e   --> repo_api_key
+Private Key: 9d91f975845a654f6a4aa8d84041b569  -->repo_secret_key
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Topic ARN:
+arn:aws:sns:us-east-1:434658200296:DevOpsNotification
+Subscription ARN:
+arn:aws:sns:us-east-1:434658200296:DevOpsNotification:a2192dce-243e-4f41-b93c-8fe5a005b70a
